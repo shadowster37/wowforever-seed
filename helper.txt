@@ -1,0 +1,5 @@
+# Parche de la clave del mundo (helper).
+# El launcher compara este sha256 con el fichero local y lo actualiza solo si cambia.
+version=2
+url=https://raw.githubusercontent.com/shadowster37/wowforever-seed/main/watch-wow-world-auth-key-current.py
+sha256=f8648c6d61394b53e8d3da16ca69445198d6f9a888495b3549903f457c160ff7
